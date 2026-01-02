@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Awch1234!
 
 **Senior Full‑Stack & AI Engineer | LLMs · TTS · STT · Cloud‑Native DevOps**
-Toronto, ON, Canada
 
 ---
 
